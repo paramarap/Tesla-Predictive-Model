@@ -1,3 +1,21 @@
-🚀 This project implements predictive modeling techniques to forecast Tesla's stock prices using three different machine learning models: Random Forest, Long Short-Term Memory (LSTM), and Gradient Boosting. However, with a bit of an edit and importation of a proper dataset, this model can be used with any stock. The model produced an average of 80% accuracy, ensuring no over-fitting and a learning technique rather than a memorizing one.
+### Tesla Stock Prediction
 
-📄 A document can be found in the main branch diving deeper into the results of the predictive models, an explanation of how they work, and my overall reasoning for them. Furthermore, I explain my non-technical approach, epxloring SQL to highlight important dates and further researching these days to understand the reason for certain spikes and dips.
+This project applies predictive modeling techniques to forecast Tesla's stock price using three machine learning models: Random Forest, Long Short-Term Memory (LSTM), and XGBoost. Through Python and SQL, I analyzed the relationship between trading volume and price movements, achieving an average prediction accuracy of ~80%.
+
+## Project Overview ✅
+- Stock price prediction using machine learning models
+- Manual analysis of Tesla's volatility and market behavior 
+- Hypothesis-driven approach on model effectiveness
+- SQL analysis to highlight key dates and events
+- Research-backed insights explaining stock spikes and dips
+
+## Results & Insights
+
+📈 The models performed well, with an average accuracy of 80%, indicating a strong learning approach rather than mere memorization.
+
+📊 A detailed report is available in the main branch, covering:
+- Breakdown of model performance and reasoning behind their effectiveness
+- SQL insights on key trading dates
+- Market research to understand Tesla's stock volatility
+
+💡 Interested in the deeper analysis? Check out the full report in the repository!
